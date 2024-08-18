@@ -30,7 +30,7 @@ In this project, we apply K-Means Clustering to segment customers into distinct 
    ```
 3. Run the notebook:
    ```bash
-   jupyter notebook Project_13_Customer_Segmentation_using_K_Means_Clustering.ipynb
+   jupyter notebook Customer_Segmentation_using_K_Means_Clustering.ipynb
    ```
 
 ## 📊 Results
@@ -40,7 +40,7 @@ The project successfully identified **X** customer segments, providing valuable 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
-For any inquiries, please reach out to me at [rami.jellali<àesprit.tn]
+For any inquiries, please reach out to me at [rami.jellali@esprit.tn]
 
 ---
 
